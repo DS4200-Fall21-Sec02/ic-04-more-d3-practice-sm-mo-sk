@@ -1,7 +1,7 @@
 # D3-more-practice
 This repository is your starting point for ic-04. Assignment details and instructions are below. 
 
-Link to your GitHub pages website: `[insert your *clickable* hyperlink here]`
+Link to your GitHub pages website: https://github.com/DS4200-Fall21-Sec02/ic-04-more-d3-practice-sm-mo-sk.git
 
 # Aim of the assignment
 
